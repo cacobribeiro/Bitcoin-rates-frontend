@@ -1,0 +1,14 @@
+{
+  "login": {
+    "url": "http://localhost:3001/api/login",
+    "method": "POST"
+  },
+  "getCurrency": {
+    "method": "get",
+    "url": "http://localhost:3001/api/crypto/btc"
+  },
+  "updateCurrency": {
+    "method": "post",
+    "url": "http://localhost:3001/api/crypto/btc"
+  }
+}
